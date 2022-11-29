@@ -10,7 +10,7 @@ There are three folders in this repo:
 - `fixation` contains the raw eye-movemenet data in csv. See below for more detailed description on the reported variables.
 
 
-# Variables in fixation dataset:
+# More detailed information about the fixation dataset:
 
 ## raw fixation dataset 
 `18sat_fixfinal.csv` contains raw eyemovement measures recorded using Eyelink 1000 (1000hz sampling rate). This file also contains which word of the passage the current gaze is fixated on (`CURRENT_FIX_INTEREST_AREA_LABEL` column). We exported all eye-movement measures using SR Research Eyelink Data Viewer program. You can see the detailed description about each eye-movement measure in their [manual](https://www.sr-research.com/support/attachment.php?aid=663). `18sat_trialfinal.csv` contains eye-movment measures are averaged or aggreaged for each trial (each page). Additional details about the other variables:
