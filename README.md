@@ -2,6 +2,18 @@
 Additional details about the eyetracking data and models can be found in this [paper](https://dl.acm.org/doi/abs/10.1145/3379156.3391335).
 
 
+Citation:
+```
+@inproceedings{ahn2020towards,
+  title={Towards predicting reading comprehension from gaze behavior},
+  author={Ahn, Seoyoung and Kelton, Conor and Balasubramanian, Aruna and Zelinsky, Greg},
+  booktitle={ACM Symposium on Eye Tracking Research and Applications},
+  pages={1--5},
+  year={2020}
+}
+```
+
+
 # Repo structure
 
 There are three folders in this repo:
@@ -50,14 +62,3 @@ There are three folders in this repo:
   - recognition: Have you read this passage before? (0:no, 1:yes)	
 
 
-
-Citation:
-```
-@inproceedings{ahn2020towards,
-  title={Towards predicting reading comprehension from gaze behavior},
-  author={Ahn, Seoyoung and Kelton, Conor and Balasubramanian, Aruna and Zelinsky, Greg},
-  booktitle={ACM Symposium on Eye Tracking Research and Applications},
-  pages={1--5},
-  year={2020}
-}
-```
